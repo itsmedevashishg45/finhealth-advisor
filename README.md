@@ -58,3 +58,14 @@ python -m data_ingestion.process_documents --directory data/raw
 
 ## 📊 Architecture
 
+## 📸 Screenshots & Demo
+
+### 🏠 Application Interface
+![Home UI](assets/home_ui.png)
+
+### 📄 Document Upload & Processing
+![Sidebar Upload](assets/sidebar_upload.png)
+
+### 🔎 Retrieval-Augmented Response
+![RAG Response](assets/rag_response.png)
+
