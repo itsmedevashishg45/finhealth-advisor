@@ -1,0 +1,32 @@
+# Core LLM Frameworks
+langchain==0.1.0
+langchain-openai==0.0.5
+langchain-community==0.0.13
+crewai==0.1.2
+llama-index==0.9.45
+
+# Vector Database
+pinecone-client==3.0.0
+
+# Web Framework
+streamlit==1.29.0
+fastapi==0.109.0
+uvicorn==0.27.0
+
+# Data Processing
+pandas==2.1.4
+numpy==1.26.3
+pypdf==3.17.4
+python-docx==1.1.0
+
+# Utilities
+python-dotenv==1.0.0
+pydantic==2.5.3
+requests==2.31.0
+
+# Evaluation
+ragas==0.1.1
+
+# Optional but recommended
+langsmith==0.0.77
+cohere==4.37
